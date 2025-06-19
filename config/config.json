@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x22bc13c0208a9900c97517deb8852a618ed7c3b2",
+  "SCAN_LINK": "https://polygonscan.com/address/0x22bc13c0208a9900c97517deb8852a618ed7c3b2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sand Dune Man",
+  "SYMBOL": "SDM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sand-dune-man",
+  "SHOW_BACKGROUND": true
+}
